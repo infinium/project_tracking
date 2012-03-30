@@ -28,7 +28,7 @@ test:
   database: Project_tracking
   pool: 5
   username: root
-  password:
+  password: qawsed
   socket: /opt/lampp/var/mysql/mysql.sock
 
 production:
